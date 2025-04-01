@@ -1,6 +1,32 @@
-title: ChrisioGwaan's GitHub Page
-description: Jekyll-powered GitHub Pages site
+title: ChrisioGwaan's GitHub Pages
+email: green@chrisiogwaan.com
+description: >-
+  Exloring the world of technology, one line of code at a time, less is more.
+baseurl: ""
+url: "https://chrisiogwaan.github.io/"
+twitter_username: ChrisioGwaan
+github_username:  ChrisioGwaan
+
 theme: minima
-baseurl: /
-url: https://chrisio.github.io
-author: ChrisioGwaan
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
