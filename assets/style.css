@@ -12,8 +12,12 @@ h1 {
 button {
     padding: 10px 20px;
     border: none;
-    background-color: #4CAF50;
+    background-color: #8cfa9e;
     color: white;
     border-radius: 5px;
     cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff91b5;
 }
