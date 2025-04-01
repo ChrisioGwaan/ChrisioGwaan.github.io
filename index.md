@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to my Jekyll site!
+# Welcome to my GitHub Page!
 
-This is my first Jekyll page using Markdown and CSS.
+Under development!
 
-<button onclick="alert('Hello from Jekyll!')">Click Me</button>
+<button onclick="alert('Yooooooooo!')">Click Me!</button>
